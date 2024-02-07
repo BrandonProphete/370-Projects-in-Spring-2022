@@ -1,0 +1,6 @@
+1.First when you use the app, TipCalculator, you will see a screen with check amount, party size, compute tip, and tips and totals (per person).
+
+2.The way this app is used is by helping to calculate the amount each person should pay when splitting a check, for tip and also for total amount.
+
+3. In order to use this app, you first must input your checks total amount(please do not input invalid or negative numbers as they will not work), then input your party size of people. After that you simply press the button "Compute Tip"
+and the calculator will give you the amount you should pay for 15%, 20%, or 25% tip and total amount. 
